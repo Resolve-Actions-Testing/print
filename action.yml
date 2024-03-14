@@ -1,8 +1,8 @@
-name: 'Echo'
-description: 'Echo Test'
+name: 'Print'
+description: 'Print Test'
 outputs:
   echo: # id of output
-    description: "Echo"
+    description: "Print"
 runs:
   using: "node20"
   main: "index.js"

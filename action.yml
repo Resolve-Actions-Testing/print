@@ -1,0 +1,8 @@
+name: 'Echo'
+description: 'Echo Test'
+outputs:
+  echo: # id of output
+    description: "Echo"
+runs:
+  using: "node20"
+  main: "index.js"

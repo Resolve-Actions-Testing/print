@@ -1,1 +1,1 @@
-console.log("github.com/resolve-actions-test/echo");
+console.log("github.com/resolve-actions-test/print");
